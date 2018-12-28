@@ -1,0 +1,2 @@
+From gcr.io/google-containers/kube-proxy:v1.10.12
+MAINTAINER markict <markict@163.com>
